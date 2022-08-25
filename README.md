@@ -1,0 +1,1 @@
+view image of robot: https://imgur.com/a/0EQD52Y
