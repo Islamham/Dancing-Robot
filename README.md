@@ -1,8 +1,8 @@
-view image of robot: https://imgur.com/a/0EQD52Y
+view image of robot: [imgur.com/a/7JM7JYP](https://imgur.com/a/7JM7JYP)
 
-# **Dance Robot**
+# **Dance Robot: Overview**
 
-## **1. The six dance moves:**
+**1. The six dance moves:**
 
 **jumpingJack:**  
 The robot performs a compulsory dynamic stretch known as the jumping jack to warm up before heading out to the dance floor.
@@ -22,10 +22,10 @@ Just like a rhino or bull paws the ground before a charge, the robot paws its on
 **moonwalk:**  
 Inspired by the great Michael Jackson, the robot performs a sideways rendition of the famous “moonwalk” dance.
 
-## **2. What info the LCD displays and how it has been mounted/attached for optimal viewing**
+**2. What info the LCD displays**
 The LCD, essentially, displays either text or an image at any given time. Before each dance runs, the LCD displays the text “Dance #x”, with x being the number of the dance (1-6). Then it displays, letter by letter (using a scroll function), the name of the dance, as per the names listed above. The display uses variations of a golden border with either a black or white background, complemented by contrasting text colors. As the dance begins, the LCD shows an image chosen to represent the respective dance and maintains that image throughout the duration of the dance performance. 
 
-# **Overview and Implementation Details**
+# **Implementation Details**
 
 ## **1. Imports and Libraries**
 In `demo.py`, corresponding to the `code.py` file on the ItsyBitsy, numerous libraries are imported. These include:
